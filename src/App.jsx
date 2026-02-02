@@ -2,7 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import Home from "./Home.jsx";
+import Home from "./home.jsx";
 import Navbar from "./components/Navbar.jsx";
 import About from "./About.jsx";
 import Skills from "./Skills.jsx";
