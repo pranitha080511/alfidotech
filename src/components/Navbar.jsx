@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from "react";
-import gsap from "gsap";
+import { gsap } from "gsap";
 import { Menu, X } from "lucide-react"; // install lucide-react
 
 export default function Navbar() {
